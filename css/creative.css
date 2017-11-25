@@ -27,6 +27,8 @@ a {
   a:hover {
     color: #f05f40; }
 
+div.text-resume {text-align:left;font-size:smaller;}
+
 h1,
 h2,
 h3,
@@ -230,5 +232,3 @@ header.masthead {
     background-color: #ee4b28 !important; }
   .btn-primary:active, .btn-primary:focus {
     box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important; }
-
-.text-resume{color:rgba(255,10,255)}
