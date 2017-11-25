@@ -1,4 +1,4 @@
-#Personal website
+## Personal website
 Changed a basic layout of the website, from: https://startbootstrap.com/template-overviews/creative/ 
 
 ## Copyright and License
